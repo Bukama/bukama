@@ -4,11 +4,10 @@ I'm a software engineer working for the German financial government, primarily d
 I love [Java](https://www.java.com/), [Jakarta EE](https://jakarta.ee/) and automated testing with [JUnit](https://junit.org/junit5/).
 
 In my spare time I'm maintaining the JUnit extension library [JUnit Pioneer](https://junit-pioneer.org/) and started to contribute to my favorite build tool - [Maven](https://maven.apache.org/).
-In 2023, I started to speak at conferences, companies and local [Java User Groups (JUG)](https://dev.java/community/jugs/) more regularly.
-Talks are given in German or English.
 
 ## Talks
-
+In 2023, I started to speak at conferences, companies and local [Java User Groups (JUG)](https://dev.java/community/jugs/) more regularly.
+Talks are given in German or English.
 If you are interested in me giving a talk, please reach out to me.
 In general, I'm not limited to Germany.
 
