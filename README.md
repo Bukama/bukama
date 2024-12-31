@@ -14,7 +14,7 @@ In general, I'm not limited to Germany.
 
 ### Upcoming
 
-* 2025-02-20: "All you need to know about Maven 4" ([JUG Darmstadt](https://www.jug-da.de/), 🇩🇪 Darmstadt)
+* 2025-02-20: "Das ist doch behindert! Über Barrieren und Freiheiten" ([JUG Darmstadt](https://www.jug-da.de/), 🇩🇪 Darmstadt)
 * 2025-04-01: "Maven 4 - Die Zukunft beginnt jetzt", with [Karl Heinz Marbaise](https://github.com/khmarbaise) ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Nürburg)
 
 ### 2024
