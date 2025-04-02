@@ -1,7 +1,7 @@
 ## Hi, I'm Matthias 👨‍💻
 
 I'm a software engineer working for the German financial government, primarily dev lead, architect and build management.
-I love [Java](https://www.java.com/), [Jakarta EE](https://jakarta.ee/) and automated testing with [JUnit](https://junit.org/junit5/).
+I love [Java](https://www.java.com/), [Jakarta EE](https://jakarta.ee/), [Maven](https://maven.apache.org/), automated testing with [JUnit](https://junit.org/junit5/) and documentation (yes!).
 
 In my spare time I'm a [Maven](https://maven.apache.org/) committer and also one maintainer of the JUnit extension library [JUnit Pioneer](https://junit-pioneer.org/).
 
@@ -14,11 +14,12 @@ In general, I'm not limited to Germany.
 
 ### Upcoming
 
-* 2025-04-01: "Maven 4 - Die Zukunft beginnt jetzt", with [Karl Heinz Marbaise](https://github.com/khmarbaise) ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Nürburg)
+* 2025-04-24: "All you need to know about Maven 4" ([Belgium JUG]([https://www.javaland.eu/](https://bejug.github.io/)), 🇧🇪 Liège)
 
 ### 2025
 
 * 2025-02-20: "Das ist doch behindert! Über Barrieren und Freiheiten" ([JUG Darmstadt](https://www.jug-da.de/), 🇩🇪 Darmstadt)
+* 2025-04-01: "Maven 4 - Die Zukunft beginnt jetzt", with [Karl Heinz Marbaise](https://github.com/khmarbaise) ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Nürburg)
 
 ### 2024
 
