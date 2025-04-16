@@ -14,7 +14,7 @@ In general, I'm not limited to Germany.
 
 ### Upcoming
 
-* 2025-04-24: "All you need to know about Maven 4" ([Belgium JUG](https://bejug.github.io/)), 🇧🇪 Liège)
+* 2025-04-24: "All you need to know about Maven 4" ([Belgium JUG](https://www.meetup.com/belgian-java-user-group/)), 🇧🇪 Liège)
 * 2025-06-11: "All you need to know about Maven 4" ([Haeger Consulting](https://www.haeger-consulting.de/), 🇩🇪 Bonn)
 
 ### 2025
