@@ -14,14 +14,17 @@ In general, I'm not limited to Germany.
 
 ### Upcoming
 
-* 2025-05-15: "All you need to know about Maven 4" ([JCON Europe Conference](https://2025.europe.jcon.one/)), 🇩🇪 Cologne)
 * 2025-06-11: "All you need to know about Maven 4" ([Haeger Consulting](https://www.haeger-consulting.de/), 🇩🇪 Bonn)
+* 2025-08-19: "All you need to know about Maven 4" ([JUG Switzerland]([https://www.haeger-consulting.de/](https://www.jug.ch/)), 🇨🇭 Zürich)
+* 2025-08-20: "All you need to know about Maven 4" ([JUG Switzerland]([https://www.haeger-consulting.de/](https://www.jug.ch/)), 🇨🇭 Bern)
+* 2025-08-21: "All you need to know about Maven 4" ([JUG Switzerland]([https://www.haeger-consulting.de/](https://www.jug.ch/)), 🇨🇭 St. Gallen)
 
 ### 2025
 
 * 2025-02-20: "Das ist doch behindert! Über Barrieren und Freiheiten" ([JUG Darmstadt](https://www.jug-da.de/), 🇩🇪 Darmstadt)
 * 2025-04-01: "Maven 4 - Die Zukunft beginnt jetzt", with [Karl Heinz Marbaise](https://github.com/khmarbaise) ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Nürburg)
 * 2025-04-24: "All you need to know about Maven 4" ([Belgium JUG](https://www.meetup.com/belgian-java-user-group/)), 🇧🇪 Liège)
+* 2025-05-15: "All you need to know about Maven 4" ([JCON Europe Conference](https://2025.europe.jcon.one/)), 🇩🇪 Cologne)
 
 ### 2024
 
