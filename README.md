@@ -21,17 +21,17 @@ In general, I'm not limited to Germany.
 
 ### 2025
 
-* 2025-02-20: "Das ist doch behindert! Über Barrieren und Freiheiten" ([JUG Darmstadt](https://www.jug-da.de/), 🇩🇪 Darmstadt)
-* 2025-04-01: "Maven 4 - Die Zukunft beginnt jetzt", with [Karl Heinz Marbaise](https://github.com/khmarbaise) ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Nürburg)
-* 2025-04-24: "All you need to know about Maven 4" ([Belgium JUG](https://www.meetup.com/belgian-java-user-group/)), 🇧🇪 Liège)
-* 2025-05-15: "All you need to know about Maven 4" ([JCON Europe Conference](https://2025.europe.jcon.one/)), 🇩🇪 Cologne)
+* 2025-05-15: "All you need to know about Maven 4" ([JCON Europe Conference](https://2025.europe.jcon.one/)), 🇩🇪 Cologne) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-jcon-2025-2025-05-15)
+* 2025-04-24: "All you need to know about Maven 4" ([Belgium JUG](https://www.meetup.com/belgian-java-user-group/)), 🇧🇪 Liège) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-belgium-jug)
+* 2025-04-01: "Maven 4 - Die Zukunft beginnt jetzt", with [Karl Heinz Marbaise](https://github.com/khmarbaise) ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Nürburg) 
+* 2025-02-20: "Das ist doch behindert! Über Barrieren und Freiheiten" ([JUG Darmstadt](https://www.jug-da.de/), 🇩🇪 Darmstadt) [Slides](https://speakerdeck.com/runningjava/das-ist-doch-behindert-uber-barrieren-und-freiheiten)
 
 ### 2024
 
-* 2024-12-04: "All you need to know about Maven 4" ([JUG Mainz](https://www.jug-mz.de/), 🇩🇪 Mainz)
+* 2024-12-04: "All you need to know about Maven 4" ([JUG Mainz](https://www.jug-mz.de/), 🇩🇪 Mainz) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-jug-mainz-2024-12-04)
 * 2024-11-06: "Das ist doch behindert! Über Barrieren und Freiheiten" ([Haeger Consulting](https://www.haeger-consulting.de/), 🇩🇪 Bonn)
-* 2024-09-18: "All you need to know about Maven 4" ([JUG Paderborn](https://jug-pb.gitlab.io/), 🇩🇪 Paderborn)
-* 2024-07-17: "All you need to know about Maven 4" ([JUG Karlsruhe](https://jug-karlsruhe.de/), 🇩🇪 Karlsruhe)
+* 2024-09-18: "All you need to know about Maven 4" ([JUG Paderborn](https://jug-pb.gitlab.io/), 🇩🇪 Paderborn) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-jug-paderborn-2024-09-18)
+* 2024-07-17: "All you need to know about Maven 4" ([JUG Karlsruhe](https://jug-karlsruhe.de/), 🇩🇪 Karlsruhe) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-jug-karlsruhe-2024-07-17)
 * 2024-04-10: "All you need to know about Maven 4" ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Nürburg)
 
 ### 2023
