@@ -18,7 +18,7 @@ In general, I'm not limited to Germany.
 * 2025-08-19: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Zürich)
 * 2025-08-20: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Bern)
 * 2025-08-21: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 St. Gallen)
-* 2025-09-16: "Alles was du über Maven 4 wissen musst" ([Java Forum Nord Konferenz](https://javaforumnord.de/), 🇩🇪 Hannover)
+* 2025-09-16: "Alles was du über Maven 4 wissen musst" ([Java Forum Nord Conference](https://javaforumnord.de/), 🇩🇪 Hannover)
 
 ### 2025
 
