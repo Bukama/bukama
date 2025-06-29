@@ -14,8 +14,7 @@ In general, I'm not limited to Germany.
 
 ### Upcoming
 
-* 2025-06-11: "All you need to know about Maven 4" ([Haeger Consulting](https://www.haeger-consulting.de/), 🇩🇪 Bonn)
-* 2025-08-16o17: "Das ist doch behindert! Über Barrieren und Freiheiten" ([FrOSCon](https://froscon.org/), 🇩🇪 St. Augustin)
+* 2025-08-16: "Das ist doch behindert! Über Barrieren und Freiheiten" ([FrOSCon](https://froscon.org/), 🇩🇪 St. Augustin)
 * 2025-08-19: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Zürich)
 * 2025-08-20: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Bern)
 * 2025-08-21: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 St. Gallen)
@@ -24,6 +23,7 @@ In general, I'm not limited to Germany.
 
 ### 2025
 
+* 2025-06-11: "All you need to know about Maven 4" ([Haeger Consulting](https://www.haeger-consulting.de/), 🇩🇪 Bonn)
 * 2025-05-15: "All you need to know about Maven 4" ([JCON Europe Conference](https://2025.europe.jcon.one/)), 🇩🇪 Cologne) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-jcon-2025-2025-05-15)
 * 2025-04-24: "All you need to know about Maven 4" ([Belgium JUG](https://www.meetup.com/belgian-java-user-group/)), 🇧🇪 Liège) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-belgium-jug)
 * 2025-04-01: "Maven 4 - Die Zukunft beginnt jetzt", with [Karl Heinz Marbaise](https://github.com/khmarbaise) ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Nürburg) 
