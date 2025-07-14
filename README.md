@@ -23,6 +23,7 @@ In general, I'm not limited to Germany.
 
 ### 2025
 
+* 2025-07-09: "All you need to know about Maven 4" ([JUG Bonn](https://www.meetup.com/de-DE/jug-bonn/), 🇩🇪 Bonn)
 * 2025-06-11: "All you need to know about Maven 4" ([Haeger Consulting](https://www.haeger-consulting.de/), 🇩🇪 Bonn)
 * 2025-05-15: "All you need to know about Maven 4" ([JCON Europe Conference](https://2025.europe.jcon.one/)), 🇩🇪 Cologne) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-jcon-2025-2025-05-15)
 * 2025-04-24: "All you need to know about Maven 4" ([Belgium JUG](https://www.meetup.com/belgian-java-user-group/)), 🇧🇪 Liège) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-belgium-jug)
