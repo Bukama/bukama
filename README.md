@@ -14,16 +14,16 @@ In general, I'm not limited to Germany.
 
 ### Upcoming
 
-* 2025-08-16: "Das ist doch behindert! Über Barrieren und Freiheiten" ([FrOSCon](https://froscon.org/), 🇩🇪 St. Augustin)
-* 2025-08-19: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Zürich)
-* 2025-08-20: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Bern)
-* 2025-08-21: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 St. Gallen)
+
 * 2025-09-16: "Alles was du über Maven 4 wissen musst" ([Java Forum Nord Conference](https://javaforumnord.de/), 🇩🇪 Hannover)
 * 2025-11-27: "Alles was du über Maven 4 wissen musst" ([JUG Dortmund](https://www.meetup.com/de-DE/jug-dortmund/), 🇩🇪 Dortmund)
 * 2026-02-19: "All you need to know about Maven 4" ([Java Meetup Cologne](https://lu.ma/java-meetup-cologne)), 🇩🇪 Köln)
 
 ### 2025
-
+* 2025-08-21: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 St. Gallen)
+* 2025-08-20: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Bern)
+* 2025-08-19: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Zürich)
+* 2025-08-16: "Das ist doch behindert! Über Barrieren und Freiheiten" ([FrOSCon](https://froscon.org/), 🇩🇪 St. Augustin)
 * 2025-07-09: "All you need to know about Maven 4" ([JUG Bonn](https://www.meetup.com/de-DE/jug-bonn/), 🇩🇪 Bonn)
 * 2025-06-11: "All you need to know about Maven 4" ([Haeger Consulting](https://www.haeger-consulting.de/), 🇩🇪 Bonn)
 * 2025-05-15: "All you need to know about Maven 4" ([JCON Europe Conference](https://2025.europe.jcon.one/)), 🇩🇪 Cologne) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-jcon-2025-2025-05-15)
