@@ -16,6 +16,7 @@ In general, I'm not limited to Germany.
 
 
 * 2025-09-16: "Alles was du über Maven 4 wissen musst" ([Java Forum Nord Conference](https://javaforumnord.de/), 🇩🇪 Hannover)
+* 2025-10-23: "Alles was du über Maven 4 wissen musst" ([Open Value GmbH](https://www.meetup.com/de-DE/openvalue-dusseldorf/), 🇩🇪 Düsseldorf)
 * 2025-11-27: "Alles was du über Maven 4 wissen musst" ([JUG Dortmund](https://www.meetup.com/de-DE/jug-dortmund/), 🇩🇪 Dortmund)
 * 2026-02-19: "All you need to know about Maven 4" ([Java Meetup Cologne](https://lu.ma/java-meetup-cologne)), 🇩🇪 Köln)
 
