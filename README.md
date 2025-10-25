@@ -14,11 +14,11 @@ In general, I'm not limited to Germany.
 
 ### Upcoming
 
-* 2025-10-23: "Alles was du über Maven 4 wissen musst" ([Open Value GmbH](https://www.meetup.com/de-DE/openvalue-dusseldorf/), 🇩🇪 Düsseldorf)
 * 2025-11-27: "Alles was du über Maven 4 wissen musst" ([JUG Dortmund](https://www.meetup.com/de-DE/jug-dortmund/), 🇩🇪 Dortmund)
 * 2026-02-19: "All you need to know about Maven 4" ([Java Meetup Cologne](https://lu.ma/java-meetup-cologne)), 🇩🇪 Köln)
 
 ### 2025
+* 2025-10-23: "Alles was du über Maven 4 wissen musst" ([Open Value GmbH](https://www.meetup.com/de-DE/openvalue-dusseldorf/), 🇩🇪 Düsseldorf)
 * 2025-08-21: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 St. Gallen)
 * 2025-08-20: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Bern)
 * 2025-08-19: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Zürich)
