@@ -13,11 +13,10 @@ In general, I'm not limited to Germany.
 
 
 ### Upcoming
-
-* 2025-11-27: "Alles was du über Maven 4 wissen musst" ([JUG Dortmund](https://www.meetup.com/de-DE/jug-dortmund/), 🇩🇪 Dortmund)
 * 2026-02-19: "All you need to know about Maven 4" ([Java Meetup Cologne](https://lu.ma/java-meetup-cologne)), 🇩🇪 Köln)
 
 ### 2025
+* 2025-11-27: "Alles was du über Maven 4 wissen musst" ([JUG Dortmund](https://www.meetup.com/de-DE/jug-dortmund/), 🇩🇪 Dortmund)
 * 2025-10-23: "Alles was du über Maven 4 wissen musst" ([Open Value GmbH](https://www.meetup.com/de-DE/openvalue-dusseldorf/), 🇩🇪 Düsseldorf)
 * 2025-08-21: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 St. Gallen)
 * 2025-08-20: "All you need to know about Maven 4" ([JUG Switzerland](https://www.jug.ch/), 🇨🇭 Bern)
@@ -31,7 +30,6 @@ In general, I'm not limited to Germany.
 * 2025-02-20: "Das ist doch behindert! Über Barrieren und Freiheiten" ([JUG Darmstadt](https://www.jug-da.de/), 🇩🇪 Darmstadt) [Slides](https://speakerdeck.com/runningjava/das-ist-doch-behindert-uber-barrieren-und-freiheiten)
 
 ### 2024
-
 * 2024-12-04: "All you need to know about Maven 4" ([JUG Mainz](https://www.jug-mz.de/), 🇩🇪 Mainz) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-jug-mainz-2024-12-04)
 * 2024-11-06: "Das ist doch behindert! Über Barrieren und Freiheiten" ([Haeger Consulting](https://www.haeger-consulting.de/), 🇩🇪 Bonn)
 * 2024-09-18: "All you need to know about Maven 4" ([JUG Paderborn](https://jug-pb.gitlab.io/), 🇩🇪 Paderborn) [Slides](https://speakerdeck.com/runningjava/all-you-need-to-know-about-maven-4-at-jug-paderborn-2024-09-18)
@@ -39,7 +37,7 @@ In general, I'm not limited to Germany.
 * 2024-04-10: "All you need to know about Maven 4" ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Nürburg)
 
 ### 2023
-
+* 2023-11-30: "Das ist doch behindert! Über Barrieren und Freiheiten" ([JUG Dortmund](https://www.meetup.com/de-DE/jug-dortmund/), 🇩🇪 Dortmund)
 * 2023-07-28: "Das ist doch behindert! Über Barrieren und Freiheiten" ([JUG Paderborn](https://jug-pb.gitlab.io/), 🇩🇪 Paderborn)
 * 2023-03-21: "Das ist doch behindert! Über Barrieren und Freiheiten" ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Brühl)
 * 2023-03-16: "Das ist doch behindert! Über Barrieren und Freiheiten" ([ITZBund](https://www.itzbund.de/), 🇩🇪 Bonn)
