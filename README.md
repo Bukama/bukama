@@ -14,6 +14,7 @@ In general, I'm not limited to Germany.
 
 ### Upcoming
 * 2026-02-19: "All you need to know about Maven 4" ([Java Meetup Cologne](https://lu.ma/java-meetup-cologne)), 🇩🇪 Köln)
+* 2026-04-22: "Code Not Required! The Many Ways to Support Open Source Projects" ([JCON Europe Conference](https://2026.europe.jcon.one/)), 🇩🇪 Cologne)
 
 ### 2025
 * 2025-11-27: "Alles was du über Maven 4 wissen musst" ([JUG Dortmund](https://www.meetup.com/de-DE/jug-dortmund/), 🇩🇪 Dortmund)
