@@ -1,7 +1,7 @@
 ## Hi, I'm Matthias 👨‍💻
 
 I'm a software engineer working for the German financial government, primarily dev lead, architect and build management.
-I love [Java](https://www.java.com/), [Jakarta EE](https://jakarta.ee/), [Maven](https://maven.apache.org/), automated testing with [JUnit](https://junit.org/junit5/) and documentation (yes!).
+I love [Java](https://www.java.com/), [Jakarta EE](https://jakarta.ee/) / [Microprofile](https://microprofile.io/), [Maven](https://maven.apache.org/), automated testing with [JUnit](https://junit.org/junit5/) and documentation (yes!).
 
 In my spare time I'm a [Maven](https://maven.apache.org/) committer and also one maintainer of the JUnit extension library [JUnit Pioneer](https://junit-pioneer.org/).
 
