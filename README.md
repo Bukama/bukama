@@ -3,7 +3,7 @@
 I'm a software engineer working for the German financial government, primarily dev lead, architect and build management.
 I love [Java](https://www.java.com/), [Jakarta EE](https://jakarta.ee/) / [Microprofile](https://microprofile.io/), [Maven](https://maven.apache.org/), automated testing with [JUnit](https://junit.org/junit5/) and documentation (yes!).
 
-In my spare time I'm a [Maven](https://maven.apache.org/) committer and also one maintainer of the JUnit extension library [JUnit Pioneer](https://junit-pioneer.org/).
+In my spare time I'm a [Maven](https://maven.apache.org/) PMC and also one maintainer of the JUnit extension library [JUnit Pioneer](https://junit-pioneer.org/).
 
 ## Talks
 In 2023, I started to speak at conferences, companies and local [Java User Groups (JUG)](https://dev.java/community/jugs/) more regularly.
