@@ -12,10 +12,10 @@ If you are interested in me giving a talk, please reach out to me.
 In general, I'm not limited to Germany.
 
 ### Upcoming
-* Currently none :(
+* 2026-09-22: "Alles was du über Maven 4 wissen musst" ([Java Forum Nord 2026](https://javaforumnord.de/2026/), 🇩🇪 Hannover)
 
 ### 2026
-* 2026-04-22: "Code Not Required! The Many Ways to Support Open Source Projects" ([JCON Europe Conference](https://2026.europe.jcon.one/)), 🇩🇪 Cologne)
+* 2026-04-22: "Code Not Required! The Many Ways to Support Open Source Projects" ([JCON Europe Conference](https://2026.europe.jcon.one/), 🇩🇪 Cologne)
 * 2026-03-11: "Es muss kein Code sein - Die verschiedenen Wege Open Source Projekte zu unterstützen" ([Javaland Conference](https://www.javaland.eu/), 🇩🇪 Rust) 
 * 2026-02-19: "All you need to know about Maven 4" ([Java Meetup Cologne](https://lu.ma/java-meetup-cologne)), 🇩🇪 Köln)
 
